@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrofit two</string>
+    <string name="todo_qo_shish">ToDo Qo\'shish</string>
+    <string name="title">Title</string>
+    <string name="sarlavha">Sarlavha</string>
+    <string name="matn">matn</string>
+    <string name="muddat">Muddat</string>
+    <string name="Matn" />
+    <string name="matn2">Matn</string>
+    <string name="saqlash">Saqlash</string>
+    <string name="qoshish">Qoshish</string>
+</resources>
